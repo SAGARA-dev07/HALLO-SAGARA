@@ -27,6 +27,11 @@ html {
    font-size: 30px;
 }
 
+.a-navbar {
+    color: white;
+    text-decoration: none;
+}
+
 .container-content {
     background-color: black;
     display: flex;
