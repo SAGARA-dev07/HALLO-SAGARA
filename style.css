@@ -40,7 +40,7 @@ html {
 }
 
 .container-content {
-    background-color: black;
+    background-color: #555;
     display: flex;
     justify-content: center;
     align-items: center;
