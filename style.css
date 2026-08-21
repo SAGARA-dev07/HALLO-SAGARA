@@ -37,6 +37,7 @@ html {
 .a-navbar {
     color: white;
     text-decoration: none;
+    font-weight: 700;
 }
 
 .container-content {
@@ -65,8 +66,8 @@ html {
 }
 
 .img-content {
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
 }
 
 .container-footer {
@@ -79,6 +80,7 @@ html {
 
 .h1-footer {
     font-size: 20px;
+    color: white;
 }
 
 
