@@ -3,19 +3,25 @@ body {
 }
 
 .navbar-container {
-    background-color: #333;
+    background-color: darkcyan;
     width: 100%;
     height: 100px;
 }
 
 .ul-navbar {
     display: flex;
+    height; 100px;
+    justify-content; center;
+    align-items: center;
 }
 
 .li-navbar {
    border: 1px solid black;
+   background-color: black;
    list-style-type: none;
-   padding: 10px;
+   padding: 20px;
+   margin: 5px;
+   color: white;
 }
 
 
