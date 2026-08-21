@@ -8,6 +8,8 @@ body {
 
 .ul-navbar {
     background-color: yellowgreen;
+    width: 500px;
+    height: 100px;
 }
 
 .li-navbar {
