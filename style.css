@@ -4,10 +4,6 @@ html {
     padding: 0;
 }
 
-body {
-    background-color: grey;
-}
-
 .navbar-container {
     background-color: darkcyan;
     width: 100%;
@@ -28,6 +24,18 @@ body {
    padding: 20px;
    margin: 5px;
    color: white;
+}
+
+.container-content {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content {
+    width: 30%;
+    height: 30%;
 }
 
 
