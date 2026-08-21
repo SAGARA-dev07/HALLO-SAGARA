@@ -20,12 +20,11 @@ html {
 }
 
 .li-navbar {
-   border: 2px solid white;
-   background-color: black;
    list-style-type: none;
    padding: 20px;
    margin: 5px;
    color: white;
+   font-size: 30px;
 }
 
 .container-content {
