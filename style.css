@@ -5,3 +5,11 @@ body {
 .navbar-container {
     background-color: darkcyan
 }
+
+.ul-navbar {
+    background-color: yellowgreen;
+}
+
+.li-navbar {
+    backgrond-color: black;
+}
