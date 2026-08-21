@@ -2,6 +2,6 @@ body {
     background-color: grey;
 }
 
-div {
-    background-color: darkcyan;
+.navbar-container {
+    background-color: darkcyan
 }
