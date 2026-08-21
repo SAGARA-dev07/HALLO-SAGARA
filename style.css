@@ -4,11 +4,12 @@ body {
 
 .navbar-container {
     background-color: #333;
+    width: 100%;
 }
 
 .ul-navbar {
     background-color: yellowgreen;
-    width: 500px;
+    width: 50%;
     height: 100px;
 }
 
